@@ -1,0 +1,85 @@
+{
+    "paths":
+        [
+            [["productVariationOne.jpg", "Army Green", "NGN15000.00", "GUCCI", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]],
+            ["productVariationTwo.jpg", "Black", "NGN18000.00", "GUCCI", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]],
+            ["productVariationThree.jpg", "XT12", "NGN20000.00", "GUCCI", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]],
+            ["productVariationFour.jpg", "Sand Brown", "NGN12000.00", "GUCCI", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]]
+            ],
+            [["one_.jpg", "Hoodie1", "NGN15000.00", "OTF", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]],
+            ["one_.jpg", "Hoodie2", "NGN18000.00", "OTF", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]],
+            ["one_.jpg", "Hoodie2", "NGN20000.00", "OTF", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]],
+            ["one_.jpg", "Hoodie2", "NGN12000.00", "OTF", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]]
+            ],
+            [["two_.jpg", "Textile", "NGN15000.00", "GUCCI", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]],
+            ["two_.jpg", "Textile2", "NGN18000.00", "GUCCI", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]],
+            ["two_.jpg", "Textile3", "NGN20000.00", "GUCCI", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]],
+            ["two_.jpg", "Textile4", "NGN12000.00", "GUCCI", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]]
+            ],
+            [["three_.jpg", "B & W", "NGN15000.00", "LLP", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]],
+            ["three_.jpg", "B & W", "NGN18000.00", "LLP", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]],
+            ["three_.jpg", "B & W", "NGN20000.00", "LLP", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]],
+            ["three_.jpg", "B & W", "NGN12000.00", "LLP", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]]
+            ],
+            [["four_.jpg", "Sleeveless1", "NGN15000.00", "ILP", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]],
+            ["four_.jpg", "Sleeveless2", "NGN18000.00", "ILP", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]],
+            ["four_.jpg", "Sleeveless3", "NGN20000.00", "ILP", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]],
+            ["four_.jpg", "Sleeveless4", "NGN12000.00", "ILP", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]]
+            ],
+            [["five_.jpg", "Shorts_", "NGN15000.00", "Lovano", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]],
+            ["five_.jpg", "Shorts", "NGN18000.00", "Lovano", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]],
+            ["five_.jpg", "XT12 Shorts", "NGN20000.00", "Lovano", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]],
+            ["five_.jpg", "Shorts", "NGN12000.00", "Lovano", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]]
+            ],
+            [["six_.jpg", "Willies T's", "NGN15000.00", "Lope", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]],
+            ["six_.jpg", "Willies T's", "NGN18000.00", "Lope", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]],
+            ["six_.jpg", "Willies T's", "NGN20000.00", "Lope", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]],
+            ["six_.jpg", "Willies T's", "NGN12000.00", "Lope", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]]
+            ],
+            [["seven_.jpg", "Verot Pair", "NGN15000.00", "Papa's", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]],
+            ["seven_.jpg", "Verot Pair", "NGN18000.00", "Papa's", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]],
+            ["seven_.jpg", "Verot Pair", "NGN20000.00", "Papa's", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]],
+            ["seven_.jpg", "Verot Pair", "NGN12000.00", "Papa's", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]]
+            ],
+            [["eight_.jpg", "Track", "NGN15000.00", "Petty", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]],
+            ["eight_.jpg", "Track", "NGN18000.00", "Petty", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]],
+            ["eight_.jpg", "Track", "NGN20000.00", "Petty", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]],
+            ["eight_.jpg", "Track", "NGN12000.00", "Petty", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]]
+            ],
+            [["nine_.jpg", "Casual P", "NGN15000.00", "Elites", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]],
+            ["nine_.jpg", "Casual P", "NGN18000.00", "Elites", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]],
+            ["nine_.jpg", "Casual P", "NGN20000.00", "Elites", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]],
+            ["nine_.jpg", "Casual P", "NGN12000.00", "Elites", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]]
+            ],
+            [["ten_.jpg", "Down Town Brown", "NGN15000.00", "Lacero", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]],
+            ["ten_.jpg", "Down Town Brown", "NGN18000.00", "Lacero", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]],
+            ["ten_.jpg", "Down Town Brown", "NGN20000.00", "Lacero", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]],
+            ["ten_.jpg", "Down Town Brown", "NGN12000.00", "Lacero", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]]
+            ],
+            [["eleven_.jpg", "Jimmy's", "NGN15000.00", "Startz", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]],
+            ["eleven_.jpg", "Jimmy's", "NGN18000.00", "Startz", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]],
+            ["eleven_.jpg", "Jimmy's", "NGN20000.00", "Startz", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]],
+            ["eleven_.jpg", "Jimmy's", "NGN12000.00", "Startz", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]]
+            ],
+            [["twelve_.jpg", "Red Shots", "NGN15000.00", "Intact", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]],
+            ["twelve_.jpg", "Red Shots", "NGN18000.00", "Intact", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]],
+            ["twelve_.jpg", "Red Shots", "NGN20000.00", "Intact", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]],
+            ["twelve_.jpg", "Red Shots", "NGN12000.00", "Intact", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]]
+            ],
+            [["thirteen_.jpg", "Enerhen", "NGN15000.00", "Vuitton", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]],
+            ["thirteen_.jpg", "Enerhen", "NGN18000.00", "Vuitton", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]],
+            ["thirteen_.jpg", "Enerhen", "NGN20000.00", "Vuitton", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]],
+            ["thirteen_.jpg", "Enerhen", "NGN12000.00", "Vuitton", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]]
+            ],
+            [["fourteen_.jpg", "Fades", "NGN15000.00", "NASP", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]],
+            ["fourteen_.jpg", "Fades", "NGN18000.00", "NASP", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]],
+            ["fourteen_.jpg", "Fades", "NGN20000.00", "NASP", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]],
+            ["fourteen_.jpg", "Fades", "NGN12000.00", "NASP", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]]
+            ],
+            [["fifteen_.jpg", "Spacers", "NGN15000.00", "NASP", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]],
+            ["fifteen_.jpg", "Spacers", "NGN18000.00", "NASP", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]],
+            ["fifteen_.jpg", "Spacers", "NGN20000.00", "NASP", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]],
+            ["fifteen_.jpg", "Spacers", "NGN12000.00", "NASP", [["Kevin", "This product was amazing."], ["Ashley", "This looks really good."], ["Rhomas", "Best I've seen so far"]]]
+            ]
+        ]
+}
